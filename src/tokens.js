@@ -10,7 +10,7 @@ import {StartTag, StartCloseTag, NoMatchStartCloseTag, MismatchedStartCloseTag, 
 
 const selfClosers = {
   area: true, base: true, br: true, col: true, command: true,
-  embed: true, frame: true, hr: true, img: true, input: true,
+  embed: true, frame: true, hr: true, img: true,
   keygen: true, link: true, meta: true, param: true, source: true,
   track: true, wbr: true, menuitem: true
 }
